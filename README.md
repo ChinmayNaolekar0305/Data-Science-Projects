@@ -6,4 +6,7 @@ This repository contains a collection of my data science and data analysis proje
 
 
 Project List:
-1) Profitable App Profiles for the App Store and Google Play Markets - 
+1) Profitable App Profiles for the App Store and Google Play Markets -
+2) Traffic Behaviour Analysis in the city of São Paulo -
+3) Loan Approval Process Analysis and Predictions -
+4) NIFTY 50 Index EDA and Visualizations - 
